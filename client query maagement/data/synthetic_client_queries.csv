@@ -1,0 +1,101 @@
+query_id,mail_id,mobile_number,query_heading,query_description,status,query_created_time,query_closed_time,category
+1,client1@gmail.com,9876542098,Login Problem,Sample Technical Issue query number 1,Open,2026-09-29 01:59:57,,Technical Issue
+2,client2@gmail.com,9876521395,Invoice Issue,Sample Billing query number 2,Open,2026-10-02 16:59:57,,Billing
+3,client3@gmail.com,9876538657,Service Information,Sample General Inquiry query number 3,Open,2026-11-14 07:59:57,,General Inquiry
+4,client4@gmail.com,9876581426,Website Error,Sample Technical Issue query number 4,Open,2026-09-30 13:59:57,,Technical Issue
+5,client5@gmail.com,9876530926,Invoice Issue,Sample Billing query number 5,Closed,2026-10-09 01:59:57,2026-10-09 02:59:57,Billing
+6,client6@gmail.com,9876554118,Service Information,Sample General Inquiry query number 6,Closed,2026-10-29 05:59:57,2026-10-30 09:59:57,General Inquiry
+7,client7@gmail.com,9876589131,Website Error,Sample Technical Issue query number 7,Closed,2026-11-08 22:59:57,2026-11-10 19:59:57,Technical Issue
+8,client8@gmail.com,9876520328,Application Not Working,Sample Technical Issue query number 8,Closed,2026-10-12 06:59:57,2026-10-14 07:59:57,Technical Issue
+9,client9@gmail.com,9876516006,Profile Update,Sample Account Issue query number 9,Closed,2026-10-10 03:59:57,2026-10-10 12:59:57,Account Issue
+10,client10@gmail.com,9876559823,Refund Request,Sample Billing query number 10,Closed,2026-11-10 02:59:57,2026-11-10 15:59:57,Billing
+11,client11@gmail.com,9876537460,General Question,Sample General Inquiry query number 11,Closed,2026-11-04 22:59:57,2026-11-06 20:59:57,General Inquiry
+12,client12@gmail.com,9876532431,Profile Update,Sample Account Issue query number 12,Open,2026-10-07 13:59:57,,Account Issue
+13,client13@gmail.com,9876545382,Invoice Issue,Sample Billing query number 13,Open,2026-10-16 21:59:57,,Billing
+14,client14@gmail.com,9876514207,Refund Request,Sample Billing query number 14,Closed,2026-09-23 08:59:57,2026-09-24 14:59:57,Billing
+15,client15@gmail.com,9876537869,General Question,Sample General Inquiry query number 15,Closed,2026-11-11 03:59:57,2026-11-12 20:59:57,General Inquiry
+16,client16@gmail.com,9876528726,Product Details,Sample General Inquiry query number 16,Closed,2026-09-19 13:59:57,2026-09-22 00:59:57,General Inquiry
+17,client17@gmail.com,9876580644,Refund Request,Sample Billing query number 17,Open,2026-09-28 16:59:57,,Billing
+18,client18@gmail.com,9876576784,Product Details,Sample General Inquiry query number 18,Closed,2026-10-23 02:59:57,2026-10-23 20:59:57,General Inquiry
+19,client19@gmail.com,9876530033,Application Not Working,Sample Technical Issue query number 19,Open,2026-09-21 06:59:57,,Technical Issue
+20,client20@gmail.com,9876560019,Invoice Issue,Sample Billing query number 20,Closed,2026-10-08 07:59:57,2026-10-10 09:59:57,Billing
+21,client21@gmail.com,9876599353,General Question,Sample General Inquiry query number 21,Closed,2026-10-11 09:59:57,2026-10-12 00:59:57,General Inquiry
+22,client22@gmail.com,9876530730,Account Locked,Sample Account Issue query number 22,Closed,2026-11-08 00:59:57,2026-11-10 08:59:57,Account Issue
+23,client23@gmail.com,9876523947,Application Not Working,Sample Technical Issue query number 23,Closed,2026-10-14 04:59:57,2026-10-16 21:59:57,Technical Issue
+24,client24@gmail.com,9876531174,Profile Update,Sample Account Issue query number 24,Open,2026-11-05 22:59:57,,Account Issue
+25,client25@gmail.com,9876557576,Website Error,Sample Technical Issue query number 25,Closed,2026-10-15 09:59:57,2026-10-16 00:59:57,Technical Issue
+26,client26@gmail.com,9876520322,Payment Problem,Sample Billing query number 26,Open,2026-10-30 15:59:57,,Billing
+27,client27@gmail.com,9876526483,Service Information,Sample General Inquiry query number 27,Open,2026-09-27 16:59:57,,General Inquiry
+28,client28@gmail.com,9876589507,Product Details,Sample General Inquiry query number 28,Open,2026-10-29 17:59:57,,General Inquiry
+29,client29@gmail.com,9876562296,Invoice Issue,Sample Billing query number 29,Open,2026-10-01 00:59:57,,Billing
+30,client30@gmail.com,9876525860,Password Reset,Sample Account Issue query number 30,Closed,2026-09-18 17:59:57,2026-09-21 03:59:57,Account Issue
+31,client31@gmail.com,9876587110,Invoice Issue,Sample Billing query number 31,Open,2026-10-25 09:59:57,,Billing
+32,client32@gmail.com,9876592719,Payment Problem,Sample Billing query number 32,Open,2026-11-15 07:59:57,,Billing
+33,client33@gmail.com,9876553309,Payment Problem,Sample Billing query number 33,Open,2026-09-19 08:59:57,,Billing
+34,client34@gmail.com,9876580678,Payment Problem,Sample Billing query number 34,Closed,2026-10-03 18:59:57,2026-10-04 22:59:57,Billing
+35,client35@gmail.com,9876563354,Service Information,Sample General Inquiry query number 35,Open,2026-09-25 18:59:57,,General Inquiry
+36,client36@gmail.com,9876556438,Website Error,Sample Technical Issue query number 36,Open,2026-10-03 20:59:57,,Technical Issue
+37,client37@gmail.com,9876517944,Product Details,Sample General Inquiry query number 37,Closed,2026-09-21 08:59:57,2026-09-21 21:59:57,General Inquiry
+38,client38@gmail.com,9876534931,Profile Update,Sample Account Issue query number 38,Open,2026-10-31 03:59:57,,Account Issue
+39,client39@gmail.com,9876546509,Product Details,Sample General Inquiry query number 39,Open,2026-10-19 04:59:57,,General Inquiry
+40,client40@gmail.com,9876522833,Payment Problem,Sample Billing query number 40,Open,2026-10-17 16:59:57,,Billing
+41,client41@gmail.com,9876531798,Website Error,Sample Technical Issue query number 41,Open,2026-09-17 02:59:57,,Technical Issue
+42,client42@gmail.com,9876531579,Product Details,Sample General Inquiry query number 42,Closed,2026-11-01 21:59:57,2026-11-02 05:59:57,General Inquiry
+43,client43@gmail.com,9876565444,Application Not Working,Sample Technical Issue query number 43,Closed,2026-10-29 19:59:57,2026-10-31 08:59:57,Technical Issue
+44,client44@gmail.com,9876538534,Service Information,Sample General Inquiry query number 44,Open,2026-11-03 00:59:57,,General Inquiry
+45,client45@gmail.com,9876575909,Application Not Working,Sample Technical Issue query number 45,Closed,2026-11-12 08:59:57,2026-11-14 22:59:57,Technical Issue
+46,client46@gmail.com,9876534356,Payment Problem,Sample Billing query number 46,Open,2026-10-14 07:59:57,,Billing
+47,client47@gmail.com,9876584668,Login Problem,Sample Technical Issue query number 47,Open,2026-10-21 06:59:57,,Technical Issue
+48,client48@gmail.com,9876586503,Application Not Working,Sample Technical Issue query number 48,Open,2026-10-19 12:59:57,,Technical Issue
+49,client49@gmail.com,9876541285,Account Locked,Sample Account Issue query number 49,Closed,2026-11-01 12:59:57,2026-11-03 05:59:57,Account Issue
+50,client50@gmail.com,9876549321,Product Details,Sample General Inquiry query number 50,Open,2026-10-03 13:59:57,,General Inquiry
+51,client51@gmail.com,9876591416,Profile Update,Sample Account Issue query number 51,Open,2026-11-14 19:59:57,,Account Issue
+52,client52@gmail.com,9876576307,Website Error,Sample Technical Issue query number 52,Open,2026-10-12 03:59:57,,Technical Issue
+53,client53@gmail.com,9876558434,Refund Request,Sample Billing query number 53,Closed,2026-09-20 07:59:57,2026-09-21 15:59:57,Billing
+54,client54@gmail.com,9876590173,Invoice Issue,Sample Billing query number 54,Closed,2026-09-22 16:59:57,2026-09-24 07:59:57,Billing
+55,client55@gmail.com,9876527601,Website Error,Sample Technical Issue query number 55,Closed,2026-09-16 12:59:57,2026-09-17 02:59:57,Technical Issue
+56,client56@gmail.com,9876530374,Website Error,Sample Technical Issue query number 56,Open,2026-09-28 16:59:57,,Technical Issue
+57,client57@gmail.com,9876536685,Profile Update,Sample Account Issue query number 57,Open,2026-09-30 23:59:57,,Account Issue
+58,client58@gmail.com,9876593136,Account Locked,Sample Account Issue query number 58,Closed,2026-10-30 08:59:57,2026-10-30 20:59:57,Account Issue
+59,client59@gmail.com,9876527146,Profile Update,Sample Account Issue query number 59,Open,2026-11-14 23:59:57,,Account Issue
+60,client60@gmail.com,9876582309,Profile Update,Sample Account Issue query number 60,Open,2026-09-28 19:59:57,,Account Issue
+61,client61@gmail.com,9876529536,General Question,Sample General Inquiry query number 61,Open,2026-11-08 07:59:57,,General Inquiry
+62,client62@gmail.com,9876566333,Login Problem,Sample Technical Issue query number 62,Closed,2026-10-08 16:59:57,2026-10-09 11:59:57,Technical Issue
+63,client63@gmail.com,9876537535,Application Not Working,Sample Technical Issue query number 63,Closed,2026-10-23 08:59:57,2026-10-25 06:59:57,Technical Issue
+64,client64@gmail.com,9876563264,Invoice Issue,Sample Billing query number 64,Open,2026-10-23 16:59:57,,Billing
+65,client65@gmail.com,9876533206,Refund Request,Sample Billing query number 65,Open,2026-09-21 04:59:57,,Billing
+66,client66@gmail.com,9876563964,Application Not Working,Sample Technical Issue query number 66,Open,2026-09-28 23:59:57,,Technical Issue
+67,client67@gmail.com,9876560140,Payment Problem,Sample Billing query number 67,Closed,2026-11-04 11:59:57,2026-11-05 01:59:57,Billing
+68,client68@gmail.com,9876555830,Product Details,Sample General Inquiry query number 68,Open,2026-11-02 19:59:57,,General Inquiry
+69,client69@gmail.com,9876535313,Refund Request,Sample Billing query number 69,Open,2026-11-13 12:59:57,,Billing
+70,client70@gmail.com,9876556025,Profile Update,Sample Account Issue query number 70,Closed,2026-09-21 07:59:57,2026-09-22 19:59:57,Account Issue
+71,client71@gmail.com,9876533405,General Question,Sample General Inquiry query number 71,Closed,2026-11-14 06:59:57,2026-11-15 16:59:57,General Inquiry
+72,client72@gmail.com,9876566959,Account Locked,Sample Account Issue query number 72,Open,2026-11-08 14:59:57,,Account Issue
+73,client73@gmail.com,9876560488,Profile Update,Sample Account Issue query number 73,Closed,2026-10-07 17:59:57,2026-10-08 08:59:57,Account Issue
+74,client74@gmail.com,9876510221,Invoice Issue,Sample Billing query number 74,Closed,2026-11-12 11:59:57,2026-11-14 19:59:57,Billing
+75,client75@gmail.com,9876591678,Refund Request,Sample Billing query number 75,Closed,2026-10-19 07:59:57,2026-10-21 02:59:57,Billing
+76,client76@gmail.com,9876552753,Website Error,Sample Technical Issue query number 76,Closed,2026-10-14 00:59:57,2026-10-16 05:59:57,Technical Issue
+77,client77@gmail.com,9876597153,Account Locked,Sample Account Issue query number 77,Open,2026-11-02 20:59:57,,Account Issue
+78,client78@gmail.com,9876549829,Refund Request,Sample Billing query number 78,Closed,2026-10-20 16:59:57,2026-10-20 17:59:57,Billing
+79,client79@gmail.com,9876570946,Refund Request,Sample Billing query number 79,Closed,2026-09-25 15:59:57,2026-09-27 09:59:57,Billing
+80,client80@gmail.com,9876532241,General Question,Sample General Inquiry query number 80,Open,2026-10-13 18:59:57,,General Inquiry
+81,client81@gmail.com,9876522240,Login Problem,Sample Technical Issue query number 81,Closed,2026-10-13 12:59:57,2026-10-15 07:59:57,Technical Issue
+82,client82@gmail.com,9876529313,Password Reset,Sample Account Issue query number 82,Open,2026-09-25 03:59:57,,Account Issue
+83,client83@gmail.com,9876519545,Website Error,Sample Technical Issue query number 83,Open,2026-10-15 14:59:57,,Technical Issue
+84,client84@gmail.com,9876560328,Product Details,Sample General Inquiry query number 84,Open,2026-09-30 11:59:57,,General Inquiry
+85,client85@gmail.com,9876510726,Service Information,Sample General Inquiry query number 85,Open,2026-11-05 13:59:57,,General Inquiry
+86,client86@gmail.com,9876577889,Product Details,Sample General Inquiry query number 86,Open,2026-11-03 11:59:57,,General Inquiry
+87,client87@gmail.com,9876569829,Login Problem,Sample Technical Issue query number 87,Open,2026-09-18 06:59:57,,Technical Issue
+88,client88@gmail.com,9876565933,General Question,Sample General Inquiry query number 88,Closed,2026-09-27 19:59:57,2026-09-30 12:59:57,General Inquiry
+89,client89@gmail.com,9876568991,Product Details,Sample General Inquiry query number 89,Open,2026-09-28 18:59:57,,General Inquiry
+90,client90@gmail.com,9876592149,Payment Problem,Sample Billing query number 90,Closed,2026-09-26 17:59:57,2026-09-29 08:59:57,Billing
+91,client91@gmail.com,9876540735,Account Locked,Sample Account Issue query number 91,Closed,2026-11-10 11:59:57,2026-11-12 00:59:57,Account Issue
+92,client92@gmail.com,9876528136,Password Reset,Sample Account Issue query number 92,Closed,2026-09-18 16:59:57,2026-09-19 03:59:57,Account Issue
+93,client93@gmail.com,9876518418,Refund Request,Sample Billing query number 93,Closed,2026-10-02 05:59:57,2026-10-03 09:59:57,Billing
+94,client94@gmail.com,9876518161,Service Information,Sample General Inquiry query number 94,Closed,2026-10-11 19:59:57,2026-10-14 01:59:57,General Inquiry
+95,client95@gmail.com,9876585456,Product Details,Sample General Inquiry query number 95,Closed,2026-09-18 15:59:57,2026-09-18 18:59:57,General Inquiry
+96,client96@gmail.com,9876561116,Product Details,Sample General Inquiry query number 96,Open,2026-10-24 00:59:57,,General Inquiry
+97,client97@gmail.com,9876573654,Payment Problem,Sample Billing query number 97,Closed,2026-11-01 01:59:57,2026-11-03 09:59:57,Billing
+98,client98@gmail.com,9876531632,Product Details,Sample General Inquiry query number 98,Closed,2026-10-03 12:59:57,2026-10-05 16:59:57,General Inquiry
+99,client99@gmail.com,9876587580,Invoice Issue,Sample Billing query number 99,Open,2026-09-17 21:59:57,,Billing
+100,client100@gmail.com,9876527786,Website Error,Sample Technical Issue query number 100,Open,2026-10-04 20:59:57,,Technical Issue
